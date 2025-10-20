@@ -1,7 +1,7 @@
 import java.time.OffsetDateTime;
 import java.util.Scanner;
 
-public class Main {
+public class Exercicio1 {
 
     public static void main(String[] args) {
         var baseYear = OffsetDateTime.now().getYear();
